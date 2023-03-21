@@ -11,5 +11,5 @@ here also intigrate swagger and redocli.
 
 here email and password for testing:
 
-email = admin@example.com
+email = admin@gmail.com
 password = admin@123
